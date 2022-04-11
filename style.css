@@ -77,10 +77,12 @@ background-color: crimson;
 }
 
 #div-3{
-
+   
     background-color: rgb(24, 148, 138);
-
+    
+    
 }
+
 
 .combinado{
     padding: 10px;
@@ -95,18 +97,76 @@ background-color: crimson;
     border-style: double;
 
 }
+#div-prueba{
+   background-color: deepskyblue;
+  width: 330px;
+  margin-left: 75%;
+  position:relative;
+  top: 300px;
+}
+
+#prueba{
+
+   width: 300px;
+   border-radius: 80px;
+   position: relative;
+   left: 20px;
+}
 
 form{
-    
-    background-color: blue;
+background-color: blue;
 }
 
-[type="checkbox"] {
- position:static;
- 
- right:20px;
- 
+.jug{
+    
+    
 }
+
 .enviar{
-    margin-left: 20%;
+    border-width: 10px;
+    border-color: chartreuse;
+    border-style: double;
+    background-color: rgb(245, 192, 15);
+}
+
+#div-4{
+    color: rgb(255, 255, 255);
+    font-size: 5px;
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.rectangulo  {
+    padding: 10px;
+    margin: 10px;
+}
+
+.px {
+   
+    background-color: chocolate;
+    width: 200px;
+}
+
+
+.vw {
+    position: relative;
+    left: 200px;
+    background-color: turquoise;
+    margin-top: 40px;
+    width:20vw;
+}
+
+.em {
+
+   width: 35em;
+   background-color: aqua;
+   position: relative;
+   left: 100px;
+   text-align: center;
+   font-size: 1.5em;
+}
+
+#colores{
+    background-color: #2fd0cd;
 }
